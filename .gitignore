@@ -59,8 +59,8 @@ sysinfo.txt
 crashlytics-build.properties
 
 #My Custom
-Project_RC/*
-!Project_RC/Assets
-Project_RC/Assets/*
-!Project_RC/Assets/_Scripts
+#Project_RC/*
+#!Project_RC/Assets
+#Project_RC/Assets/*
+#!Project_RC/Assets/_Scripts
 *.meta
